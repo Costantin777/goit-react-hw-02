@@ -1,4 +1,4 @@
-import css from "./Description.module.css";
+import css from "/src/components/Description/Description.module.css";
 
 export default function Description() {
   return (

@@ -1,4 +1,4 @@
-import css from "./Feedback.module.css";
+import css from "/src/components/Feedback/Feedback.module.css";
 
 export default function Feedback({ state, total, positive }) {
   return (

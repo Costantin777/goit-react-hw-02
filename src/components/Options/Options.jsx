@@ -1,4 +1,4 @@
-import css from "./Options.module.css";
+import css from "/src/components/Options/Options.module.css";
 
 export default function Options({ clickHandler, reset, total }) {
   return (
